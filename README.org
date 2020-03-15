@@ -19,19 +19,13 @@ Tous les jeux de données ci-dessous présentent des données /historicisées/.
 
 [[https://join.slack.com/t/dataagainstcovid-19/shared_invite/zt-cgsplso2-LIvWeRHlf1ZFIrh~SPj~IA][Vous pouvez déjà rejoindre le slack où se rassemblent les volontaires de tous ces projets.]]
 
-Les personnes qui gèrent [[https://github.com/opencovid19-fr/data][opencovid19-fr/data]] ont besoin d'aide pour
-relire les données saisies et saisir de nouvelles données.  *Voir la
-[[https://github.com/opencovid19-fr/data#comment-contribuer-][section "Comment contribuer ?"]] du dépôt.*
-
-Les personnes qui gèrent [[https://github.com/lperez31/coronavirus-france-dataset][lperez31/coronavirus-france-dataset]] ont
-besoin d'aide pour saisir et relire des données et les agréger au
-niveau individuel pour constituer un fichier anonymisé de patients et
-de personnes décédées.  *Voir la [[https://github.com/lperez31/coronavirus-france-dataset#contributions][section "Contributions"]] du dépôt.*
+- [[https://github.com/opencovid19-fr/data][opencovid19-fr/data]] : besoin d'aide pour relire les données saisies et saisir de nouvelles données.  *Voir la [[https://github.com/opencovid19-fr/data#comment-contribuer-][section "Comment contribuer ?"]] du dépôt.*
+- [[https://github.com/lperez31/coronavirus-france-dataset][lperez31/coronavirus-france-dataset]] : besoin d'aide pour saisir et relire des données et les agréger au niveau individuel pour constituer un fichier anonymisé de patients et de personnes décédées.  *Voir la [[https://github.com/lperez31/coronavirus-france-dataset#contributions][section "Contributions"]] du dépôt.*
 
 * Développer des outils
 
-- [[https://github.com/opencovid19-fr/dashboard][github.com/opencovid19-fr/dashboard]] : c'est l'outil qui permet la visualisation des données sur [[https://veille-coronavirus.fr][veille-coronavirus.fr]] (=HTML= / =js=)
-- [[https://github.com/SamAstro/coronavirus-france-utils][github.com/SamAstro/coronavirus-france-utils]] : des utilitaires pour la gestion des données de [[https://github.com/lperez31/coronavirus-france-dataset][coronavirus-france-dataset]] (=python= / =sh=)
+- [[https://github.com/opencovid19-fr/dashboard][github.com/opencovid19-fr/dashboard]] : l'outil qui permet la visualisation des données sur [[https://veille-coronavirus.fr][veille-coronavirus.fr]] (=HTML= / =js=)
+- [[https://github.com/SamAstro/coronavirus-france-utils][github.com/SamAstro/coronavirus-france-utils]] : utilitaires pour la gestion des données de [[https://github.com/lperez31/coronavirus-france-dataset][coronavirus-france-dataset]] (=python= / =sh=)
 
 * Licence
 
