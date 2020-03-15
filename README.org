@@ -4,7 +4,7 @@ Nous cherchons des volontaires pour éplucher des communiqués de presse et y co
 
 [[https://join.slack.com/t/dataagainstcovid-19/shared_invite/zt-cgsplso2-LIvWeRHlf1ZFIrh~SPj~IA][Pour contribuer, venez en parler avec nous sur Slack !]]
 
-* La liste des initiatives de collecte de données
+* Initiatives de collecte de données
 
 Tous les jeux de données ci-dessous présentent des données /historicisées/.
 
@@ -15,14 +15,14 @@ Tous les jeux de données ci-dessous présentent des données /historicisées/.
 | [[https://github.com/cedricguadalupe][cedricguadalupe]] | [[https://github.com/cedricguadalupe/FRANCE-COVID-19][cedricguadalupe/FRANCE-COVID-19]]     | SPF                   | Régions               | ?           | via [[https://metabase.cedricguadalupe.com/public/dashboard/e771e5ed-45a0-40cd-b9c6-026c86a67117][metabase]]          |
 | [[https://github.com/bzg/][bzg]]             | [[https://www.data.gouv.fr/fr/datasets/cas-confirmes-dinfection-au-covid-19-par-region/][data.gouv.fr]]                        | SPF                   | Régions               | Automatique | [[https://static.data.gouv.fr/resources/cas-confirmes-dinfection-au-covid-19-par-region/20200315-084505/covid19.svg][svg]]                   |
 
-* Besoin d'aide
+* Aide pour ces initiatives
 
 [[https://join.slack.com/t/dataagainstcovid-19/shared_invite/zt-cgsplso2-LIvWeRHlf1ZFIrh~SPj~IA][Vous pouvez déjà rejoindre le slack où se rassemblent les volontaires de tous ces projets.]]
 
 - [[https://github.com/opencovid19-fr/data][opencovid19-fr/data]] : besoin d'aide pour relire les données saisies et saisir de nouvelles données.  *Voir la [[https://github.com/opencovid19-fr/data#comment-contribuer-][section "Comment contribuer ?"]] du dépôt.*
 - [[https://github.com/lperez31/coronavirus-france-dataset][lperez31/coronavirus-france-dataset]] : besoin d'aide pour saisir et relire des données et les agréger au niveau individuel pour constituer un fichier anonymisé de patients et de personnes décédées.  *Voir la [[https://github.com/lperez31/coronavirus-france-dataset#contributions][section "Contributions"]] du dépôt.*
 
-* Développer des outils
+* Aide pour le développement d'outils
 
 - [[https://github.com/opencovid19-fr/dashboard][github.com/opencovid19-fr/dashboard]] : l'outil de visualisation des données sur [[https://veille-coronavirus.fr][veille-coronavirus.fr]] (=HTML= / =js=)
 - [[https://github.com/SamAstro/coronavirus-france-utils][github.com/SamAstro/coronavirus-france-utils]] : utilitaires pour les des données de [[https://github.com/lperez31/coronavirus-france-dataset][coronavirus-france-dataset]] (=Python= / =shell=)
