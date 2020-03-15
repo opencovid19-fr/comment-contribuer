@@ -25,8 +25,8 @@ Tous les jeux de données ci-dessous présentent des données /historicisées/.
 * Aide pour le développement d'outils
 
 - [[https://github.com/opencovid19-fr/dashboard][github.com/opencovid19-fr/dashboard]] : l'outil de visualisation des données sur [[https://veille-coronavirus.fr][veille-coronavirus.fr]] (=HTML= / =js=)
-- [[https://github.com/SamAstro/coronavirus-france-utils][github.com/SamAstro/coronavirus-france-utils]] : utilitaires pour les des données de [[https://github.com/lperez31/coronavirus-france-dataset][coronavirus-france-dataset]] (=Python= / =shell=)
-- [[https://github.com/bzg/covid19-fr][github.com/bzg/covid19-fr]] : outil de collecte/publication automatique des données SPF publiées en HTML (=Clojure=)
+- [[https://github.com/SamAstro/coronavirus-france-utils][github.com/SamAstro/coronavirus-france-utils]] : utilitaires pour les données de [[https://github.com/lperez31/coronavirus-france-dataset][coronavirus-france-dataset]] (=Python= / =shell=)
+- [[https://github.com/bzg/covid19-fr][github.com/bzg/covid19-fr]] : outil de collecte/publication des données SPF publiées en HTML (=Clojure=)
 
 * Licence
 
