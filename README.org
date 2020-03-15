@@ -1,4 +1,4 @@
-*Vous voulez contribuer ?*
+* Vous voulez contribuer ?
 
 Nous cherchons des volontaires pour éplucher des communiqués de presse et y collecter des données.  Techniquement, les contributeurs doivent savoir se servir de git et de GitHub.
 
