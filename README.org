@@ -28,6 +28,12 @@ Tous les jeux de données ci-dessous présentent des données /historicisées/.
 - [[https://github.com/SamAstro/coronavirus-france-utils][github.com/SamAstro/coronavirus-france-utils]] : utilitaires pour les données de [[https://github.com/lperez31/coronavirus-france-dataset][coronavirus-france-dataset]] (=Python= / =shell=)
 - [[https://github.com/bzg/covid19-fr][github.com/bzg/covid19-fr]] : outil de collecte/publication des données SPF publiées en HTML (=Clojure=)
 
+* Avant de réutiliser les données publiées
+
+Assurez-vous de lire l'article d'Amanda Makulec "[[https://medium.com/nightingale/ten-considerations-before-you-create-another-chart-about-covid-19-27d3bd691be8][Ten Considerations
+Before You Create Another Chart About COVID-19]]" - merci à Karim
+N'Diaye d'avoir signalé ce lien.
+
 * Licence
 
 2020 © Les contributeurs du dépôt.
