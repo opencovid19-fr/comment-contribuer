@@ -4,6 +4,14 @@ Nous cherchons des volontaires pour éplucher des communiqués de presse et y co
 
 [[https://join.slack.com/t/dataagainstcovid-19/shared_invite/zt-cgsplso2-LIvWeRHlf1ZFIrh~SPj~IA][Pour contribuer, venez en parler avec nous sur Slack !]]
 
+* Canaux thématiques dans l'espace Slack
+
+- [[https://dataagainstcovid-19.slack.com/archives/CV3M7RE8Y][#gather-and-analyse-data-from-covid-19-in-France]] : Groupe pour la collecte, la consolidation et l'analyse des données disponibles.
+- [[https://dataagainstcovid-19.slack.com/archives/C01056WN68G][#dataviz]] : Discussions et projets de visualisation des données.
+- [[https://dataagainstcovid-19.slack.com/archives/C01056Y0Y8G][#medical-experts]] : Discussions avec des médecins pour comprendre les besoins.
+- [[https://dataagainstcovid-19.slack.com/archives/C0104P6HVQU][#reserve-tech]] : Réserve de volontaires pouvant aider des instituts de recherche ou des administrations à analyser des données.
+- [[https://dataagainstcovid-19.slack.com/archives/C01057P2R6Z][#docs-faq]] : Groupe mobilisé sur la rédaction de documentation technique et d'une FAQ plus large sur les données dans le système de santé.
+
 * Initiatives de collecte de données
 
 Tous les jeux de données ci-dessous présentent des données /historicisées/.
@@ -14,13 +22,6 @@ Tous les jeux de données ci-dessous présentent des données /historicisées/.
 | [[https://github.com/lperez31][lperez31]]        | [[https://github.com/lperez31/coronavirus-france-dataset][lperez31/coronavirus-france-dataset]] | ARS, préfectures, SPF | Données individuelles | Manuelle    | sur [[https://www.kaggle.com/lperez/coronavirus-france-dataset][kaggle.com]]                                         |
 | [[https://github.com/cedricguadalupe][cedricguadalupe]] | [[https://github.com/cedricguadalupe/FRANCE-COVID-19][cedricguadalupe/FRANCE-COVID-19]]     | SPF                   | Régions               | ?           | via [[https://metabase.cedricguadalupe.com/public/dashboard/e771e5ed-45a0-40cd-b9c6-026c86a67117][metabase]]  et [[https://app.powerbi.com/view?r=eyJrIjoiZWUyM2YzNmItMDE3My00ZTQ1LWI5YTEtNzE5ZDAyZjRhMGU5IiwidCI6ImQwYjE3MTZmLWQ5NDEtNGNjMy1iNWY5LWU0MmViMzdmZDgwYiIsImMiOjh9][powerbi.com pour les données patients]] |
 | [[https://github.com/bzg/][bzg]]             | [[https://www.data.gouv.fr/fr/datasets/cas-confirmes-dinfection-au-covid-19-par-region/][data.gouv.fr]]                        | SPF                   | Régions               | Automatique | [[https://static.data.gouv.fr/resources/cas-confirmes-dinfection-au-covid-19-par-region/20200315-084505/covid19.svg][svg]]                                                    |
-
-* Aide pour ces initiatives
-
-[[https://join.slack.com/t/dataagainstcovid-19/shared_invite/zt-cgsplso2-LIvWeRHlf1ZFIrh~SPj~IA][Vous pouvez déjà rejoindre le slack où se rassemblent les volontaires de tous ces projets.]]
-
-- [[https://github.com/opencovid19-fr/data][opencovid19-fr/data]] : besoin d'aide pour relire les données saisies et saisir de nouvelles données.  *Voir la [[https://github.com/opencovid19-fr/data#comment-contribuer-][section "Comment contribuer ?"]] du dépôt.*
-- [[https://github.com/lperez31/coronavirus-france-dataset][lperez31/coronavirus-france-dataset]] : besoin d'aide pour saisir et relire des données et les agréger au niveau individuel pour constituer un fichier anonymisé de patients et de personnes décédées.  *Voir la [[https://github.com/lperez31/coronavirus-france-dataset#contributions][section "Contributions"]] du dépôt.*
 
 * Aide pour le développement d'outils
 
