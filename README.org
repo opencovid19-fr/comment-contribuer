@@ -33,6 +33,8 @@ Rejoindre le canal [[https://dataagainstcovid-19.slack.com/archives/CV3M7RE8Y][#
 | [[https://metabase.cedricguadalupe.com/public/dashboard/e771e5ed-45a0-40cd-b9c6-026c86a67117][metabase]]                            | [[https://github.com/cedricguadalupe/FRANCE-COVID-19][cedricguadalupe/FRANCE-COVID-19]]     |
 | Vidéo et exemples dans le README.md | https://github.com/kalisio/covid-19 |
 
+# | https://phclement.github.io/Covid-19/                                    |                                     |
+
 Rejoindre le canal [[https://dataagainstcovid-19.slack.com/archives/C01056WN68G][#dataviz]] pour les discussions et projets de visualisation des données.
 
 * Aide pour le développement d'outils
