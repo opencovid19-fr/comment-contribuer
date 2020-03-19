@@ -21,6 +21,7 @@ Tous les jeux de données ci-dessous présentent des données /historicisées/.
 | [[https://github.com/opencovid19-fr/data][opencovid19-fr/data]]                 | SPF, ARS, préfectures | Départements, régions | Manuelle    | [[https://veille-coronavirus.fr][veille-coronavirus.fr]] |
 | [[https://github.com/lperez31/coronavirus-france-dataset][lperez31/coronavirus-france-dataset]] | SPF, ARS, préfectures | Données individuelles | Manuelle    | sur [[https://www.kaggle.com/lperez/coronavirus-france-dataset][kaggle.com]]        |
 | [[https://www.data.gouv.fr/fr/datasets/cas-confirmes-dinfection-au-covid-19-par-region/][data.gouv.fr]]                        | [[https://www.santepubliquefrance.fr/][SPF]]                   | Régions               | Automatique | [[https://static.data.gouv.fr/resources/cas-conirmes-dinfection-au-covid-19-par-region/20200315-084505/covid19.svg][svg]]                   |
+| [[https://geodes.santepubliquefrance.fr/#c=indicator&f=D&i=sursaud_corona_hebdo.prop_corona_hospit_sau&s=2020-S11&t=a01&view=map2][Données du portail geodes de SPF]]    | SPF                   | Régions               | Manuelle    | [[https://geodes.santepubliquefrance.fr/#c=indicator&f=D&i=sursaud_corona_hebdo.prop_corona_hospit_sau&s=2020-S11&t=a01&view=map2][via le portail geodes]] |
 
 # | [[https://github.com/cedricguadalupe/FRANCE-COVID-19][cedricguadalupe/FRANCE-COVID-19]]     | SPF                   | Régions               | ?           | via [[https://metabase.cedricguadalupe.com/public/dashboard/e771e5ed-45a0-40cd-b9c6-026c86a67117][metabase]]  et [[https://app.powerbi.com/view?r=eyJrIjoiZWUyM2YzNmItMDE3My00ZTQ1LWI5YTEtNzE5ZDAyZjRhMGU5IiwidCI6ImQwYjE3MTZmLWQ5NDEtNGNjMy1iNWY5LWU0MmViMzdmZDgwYiIsImMiOjh9][powerbi.com pour les données patients]] |
 
@@ -28,10 +29,11 @@ Rejoindre le canal [[https://dataagainstcovid-19.slack.com/archives/CV3M7RE8Y][#
 
 * Initiatives pour visualiser les données
 
-| [[https://veille-coronavirus.fr][veille-coronavirus.fr]]               | [[https://github.com/opencovid19-fr/dashboard][opencovid19-fr/dashboard]]            |
-| [[https://www.kaggle.com/lperez/coronavirus-france-dataset][kaggle.com]]                          | [[https://github.com/lperez31/coronavirus-france-dataset][lperez31/coronavirus-france-dataset]] |
-| [[https://metabase.cedricguadalupe.com/public/dashboard/e771e5ed-45a0-40cd-b9c6-026c86a67117][metabase]]                            | [[https://github.com/cedricguadalupe/FRANCE-COVID-19][cedricguadalupe/FRANCE-COVID-19]]     |
-| Vidéo et exemples dans le README.md | https://github.com/kalisio/covid-19 |
+| [[https://geodes.santepubliquefrance.fr/#c=indicator&f=D&i=sursaud_corona_hebdo.prop_corona_hospit_sau&s=2020-S11&t=a01&view=map2][Portail geodes de Santé Publique France]] | N/A                                 |
+| [[https://veille-coronavirus.fr][veille-coronavirus.fr]]                   | [[https://github.com/opencovid19-fr/dashboard][opencovid19-fr/dashboard]]            |
+| [[https://www.kaggle.com/lperez/coronavirus-france-dataset][kaggle.com]]                              | [[https://github.com/lperez31/coronavirus-france-dataset][lperez31/coronavirus-france-dataset]] |
+| [[https://metabase.cedricguadalupe.com/public/dashboard/e771e5ed-45a0-40cd-b9c6-026c86a67117][metabase]]                                | [[https://github.com/cedricguadalupe/FRANCE-COVID-19][cedricguadalupe/FRANCE-COVID-19]]     |
+| Vidéo et exemples dans le README.md     | https://github.com/kalisio/covid-19 |
 
 # | https://phclement.github.io/Covid-19/                                    |                                     |
 
