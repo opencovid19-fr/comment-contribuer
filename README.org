@@ -2,7 +2,7 @@
 
 Nous cherchons des volontaires pour éplucher des communiqués de presse et y collecter des données.  Techniquement, les contributeurs doivent savoir se servir de git et de GitHub.
 
-[[https://join.slack.com/t/dataagainstcovid-19/shared_invite/zt-cgsplso2-LIvWeRHlf1ZFIrh~SPj~IA][Pour contribuer, venez en parler avec nous sur Slack !]]
+[[https://join.slack.com/t/dataagainstcovid-19/shared_invite/zt-e1ttv9o3-b5rCLcK3lqu3zcFMrJIBdg][Pour contribuer, venez en parler avec nous sur Slack !]]
 
 * Canaux thématiques dans l'espace Slack
 
